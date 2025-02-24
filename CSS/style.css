@@ -1,0 +1,94 @@
+*{
+    
+    font-family: "Inter", serif;
+}
+
+.banner-content h1{
+    font-family: 'Raleway','PlayfairDisplay';
+    font-size: 52px;
+    font-weight:900px;
+}
+
+.banner-content h1 span{
+    color: #2699fb;
+}
+.banner-content p{
+    font-size: 24px;
+   
+}
+.banner-content ul{
+    list-style: none;
+    
+}
+.banner-content ul li {
+   
+    font-size: 20px;
+  
+    
+}
+.banner-content ul li i{
+
+    color: #3d84c2;
+}
+.banner_button button {
+border-radius:20px;
+color:wheat;
+background:linear-gradient(to left,#0ACEFE,#2699FB);
+border: none;
+
+ 
+}
+.banner-form{
+    padding: 40px;
+}
+.banner-form h3{
+    font-size: 18px;
+    font-weight: 700;
+  
+    
+}
+.banner-form button{
+    padding: 10px 10px;
+    width: 100%;
+    background:linear-gradient(to left,#0ACEFE,#2699FB);
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.container h2{
+color:#0388fc ;
+font-weight: 700;
+font-size: 30px;
+}
+
+
+.highlights-section h2{
+    background-color: #F7FAFF;
+    color: #0A2134;
+    font-weight: 700;
+    font-size: 36px;
+    
+}
+.highlights-section p{
+    font-size: 18px;
+}
+.img1 i{
+    font-size: 50px;
+    padding-left: 40px;
+    
+}
+.highlights-section h5{
+    font-weight: 600;
+    
+}
+.p-5 {
+    padding: 3rem !important;
+    padding-inline: 90px !important;
+}
+.container .book-class{
+    background:linear-gradient(to left,#0ACEFE,#2699FB);
+    height: 50px;
+    font-weight: 600;
+    margin-bottom: 100px;
+    border: none;
+}
